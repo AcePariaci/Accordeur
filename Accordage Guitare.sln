@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Accordage Guitare", "Accordage Guitare.vcxproj", "{DE2A81A8-18B9-335A-B9D2-CB6519E775EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2A81A8-18B9-335A-B9D2-CB6519E775EE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DE2A81A8-18B9-335A-B9D2-CB6519E775EE}.Debug|Win32.Build.0 = Debug|Win32
+		{DE2A81A8-18B9-335A-B9D2-CB6519E775EE}.Release|Win32.ActiveCfg = Release|Win32
+		{DE2A81A8-18B9-335A-B9D2-CB6519E775EE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

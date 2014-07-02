@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Accordage Guitare - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x40c /fo"Debug/Accordage Guitare.res" /d "_DEBUG" /d "_AFXDLL" "C:\Documents and Settings\lamourec alain\Mes documents\programmation\Visual C++\Accordage Guitare\Accordage Guitare.rc"" 
+Creating temporary file "C:\DOCUME~1\LAMOUR~1\LOCALS~1\Temp\RSPA1.tmp" with contents
+[
+winmm.lib /nologo /subsystem:windows /profile /debug /machine:I386 /out:"Debug/Accordage Guitare.exe" 
+".\Debug\Accord.obj"
+".\Debug\Accordage Guitare.obj"
+".\Debug\Accordage GuitareDlg.obj"
+".\Debug\DlgDiagramme.obj"
+".\Debug\FFT.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Accordage Guitare.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\LAMOUR~1\LOCALS~1\Temp\RSPA1.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+Accordage Guitare.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
